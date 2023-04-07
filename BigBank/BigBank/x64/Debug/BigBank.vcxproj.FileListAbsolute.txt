@@ -1,0 +1,2 @@
+C:\Users\norris\source\repos\BigBank\BigBank\x64\Debug\BigBank.vcxproj.AssemblyReference.cache
+C:\Users\norris\source\repos\BigBank\BigBank\x64\Debug\BigBank.vcxproj.SuggestedBindingRedirects.cache
