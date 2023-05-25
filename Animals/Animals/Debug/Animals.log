@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  Animals.cpp
+  AssemblyInfo.cpp
+  Generating Code...
+  .NETFramework,Version=v4.7.1.AssemblyAttributes.cpp
+  Animals.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Animals.vcxproj -> C:\Users\Stefan\Desktop\Facultate\POO\Animals\Debug\Animals.exe

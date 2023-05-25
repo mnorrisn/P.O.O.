@@ -1,0 +1,4 @@
+C:\Users\Stefan\Desktop\Facultate\A1S2\POO\Calculator windows\Calculator windows\x64\Debug\Calculator windows.vcxproj.AssemblyReference.cache
+C:\Users\Stefan\Desktop\Facultate\A1S2\POO\Calculator windows\Calculator windows\x64\Debug\Calculator windows.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Stefan\Desktop\Facultate\A1S2\POO\Calculator windows\Calculator windows\x64\Debug\Calculator_windows.Form1.resources
+C:\Users\Stefan\Desktop\Facultate\A1S2\POO\Calculator windows\Calculator windows\x64\Debug\Calculator windows.vcxproj.GenerateResource.cache
